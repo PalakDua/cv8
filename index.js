@@ -3,20 +3,20 @@ const reviews=[
 {
 	name:"smith",
 	job:"Ux designer",
-	img:"img/img2.jpg",
+	img:"img2.jpg",
 	text:"Sriracha literally flexitarian irony, vape marfa unicorn.",   
 	
 },
 {
 	name:"JOHN",
 	job:"full stack developer",
-	img:"img/img3.jpg",
+	img:"img3.jpg",
 	text:"Sriracha literally flexitarian irony, vape marfa unicorn.",
 },
 {
 	name:"JONAS",
 	job:"web developer",
-	img:"img/img4.jpg",
+	img:"img4.jpg",
 	text:"Sriracha literally flexitarian irony, vape marfa unicorn.",
 	 
 }
